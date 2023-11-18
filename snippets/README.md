@@ -1,0 +1,1 @@
+This folder holds the snippets of code studied each week in seminars of JMT2023
