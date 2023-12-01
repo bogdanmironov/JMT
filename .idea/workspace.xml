@@ -4,74 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddc9cf9d-ed30-4ad0-acc8-0a7720e93540" name="Changes" comment="JMT-1:&#10;Add: Initial setup and lab1-3">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_engine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito_junit_jupiter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/exception/BuildableAlreadyExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/exception/BuildableNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/exception/InsufficientPlotAreaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/plot/Plot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/plot/PlotAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/property/billable/Billable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/property/buildable/Buildable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/property/buildable/BuildableType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/utility/UtilityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/utility/UtilityServiceAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab5/src/bg/sofia/uni/fmi/mjt/simcity/utility/UtilityType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/center/IntelligentHomeCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/center/comparator/KWhComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/center/comparator/RegistrationComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/center/exceptions/DeviceAlreadyRegisteredException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/center/exceptions/DeviceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/device/AmazonAlexa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/device/DeviceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/device/IoTDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/device/IoTDeviceBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/device/RgbBulb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/device/WiFiThermostat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/storage/DeviceStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/src/bg/sofia/uni/fmi/mjt/intelligenthome/storage/MapDeviceStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/test/bg/sofia/uni/fmi/mjt/intelligenthome/center/IntelligentHomeCenterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/test/bg/sofia/uni/fmi/mjt/intelligenthome/device/DeviceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab6/test/bg/sofia/uni/fmi/mjt/intelligenthome/storage/StorageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/src/bg/sofia/uni/fmi/mjt/exchange/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/src/bg/sofia/uni/fmi/mjt/exchange/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/src/bg/sofia/uni/fmi/mjt/exchange/CurrencyExchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/src/bg/sofia/uni/fmi/mjt/exchange/GoogleCurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/src/bg/sofia/uni/fmi/mjt/exchange/UnknownCurrencyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/src/bg/sofia/uni/fmi/mjt/math/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/src/bg/sofia/uni/fmi/mjt/math/NumberUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/test/bg/sofia/uni/fmi/mjt/OrderedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/test/bg/sofia/uni/fmi/mjt/exchange/CurrencyExchangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/test/bg/sofia/uni/fmi/mjt/math/CalcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snippets/w6/test/bg/sofia/uni/fmi/mjt/math/NumberUtilsTest.java" afterDir="false" />
+    <list default="true" id="ddc9cf9d-ed30-4ad0-acc8-0a7720e93540" name="Changes" comment="JMT-2:&#10;Add: Week 6">
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/CipherExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/DataStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/DiskSizeEstimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/ExecutionTimeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/ObjectStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/SystemStreamsRedirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/TextFileDuplicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/WritingToAndReadingFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/w7/src/bg/sofia/uni/fmi/mjt/io/ZipExplorer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JMT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JMT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/argumentpassing/PrimitiveArgumentsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/argumentpassing/PrimitiveArgumentsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/argumentpassing/ReferencesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/argumentpassing/ReferencesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/enums/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/enums/Day.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/enums/DaysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/enums/DaysExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/enums/StringConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/enums/StringConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/AuthenticationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/AuthenticationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/EmailNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/EmailNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/HelpfulNPE.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/HelpfulNPE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/SmartNPEExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/SmartNPEExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/WrongPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/WrongPasswordException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/interfaces/AirBnB.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/interfaces/AirBnB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/interfaces/Bookable.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/interfaces/Bookable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/signature/ExceptionSignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/signature/ExceptionSignature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/exceptions/signature/ExceptionSignatureBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/exceptions/signature/ExceptionSignatureBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/heapandstack/HeapAndStackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/heapandstack/HeapAndStackExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/initializers/InitializersDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/initializers/InitializersDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/records/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/records/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/records/PointDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/records/PointDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/records/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/records/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/sealed/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/sealed/Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/sealed/GymWorkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/sealed/GymWorkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/sealed/Jogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/sealed/Jogging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/w3/sealed/Swimming.java" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/w3/src/sealed/Swimming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,35 +54,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bmironov/Documents/University/Java/JMT/labs/lab6&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/bmironov/Documents/University/Java/JMT/snippets/w7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="bg.sofia.uni.fmi.mjt.exchange" />
       <recent name="bg.sofia.uni.fmi.mjt.udemy.exception" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/snippets/w7" />
       <recent name="$PROJECT_DIR$/labs/lab6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -148,88 +94,68 @@
       <recent name="bg.sofia.uni.fmi.mjt.udemy.account" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DeviceTest">
-    <configuration name="DeviceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.WritingToAndReadingFromFile">
+    <configuration name="DataStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.io.DataStreamExample" />
       <module name="JMT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.intelligenthome.device.*" />
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.device" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.device.DeviceTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-XX:+EnableDynamicAgentLoading -Xshare:off" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeviceTest.checkIdGeneration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiskSizeEstimator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.io.DiskSizeEstimator" />
       <module name="JMT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.intelligenthome.device.*" />
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.device" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.device.DeviceTest" />
-      <option name="METHOD_NAME" value="checkIdGeneration" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-XX:+EnableDynamicAgentLoading -Xshare:off" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeviceTest.testRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExecutionTimeComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.io.ExecutionTimeComparator" />
       <module name="JMT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.intelligenthome.device.*" />
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.device" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.device.DeviceTest" />
-      <option name="METHOD_NAME" value="testRegistration" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-XX:+EnableDynamicAgentLoading -Xshare:off" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntelligentHomeCenterTest.testGetDeviceByIdBlank" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ObjectStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.io.ObjectStreamExample" />
       <module name="JMT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.intelligenthome.center.*" />
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.center" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.center.IntelligentHomeCenterTest" />
-      <option name="METHOD_NAME" value="testGetDeviceByIdBlank" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-XX:+EnableDynamicAgentLoading -Xshare:off" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StorageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WritingToAndReadingFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.io.WritingToAndReadingFromFile" />
       <module name="JMT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.intelligenthome.storage.*" />
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.storage" />
-      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.intelligenthome.storage.StorageTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-XX:+EnableDynamicAgentLoading -Xshare:off" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -266,20 +192,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DataStreamExample" />
+      <item itemvalue="Application.DiskSizeEstimator" />
+      <item itemvalue="Application.ExecutionTimeComparator" />
+      <item itemvalue="Application.ObjectStreamExample" />
+      <item itemvalue="Application.WritingToAndReadingFromFile" />
       <item itemvalue="JUnit.lab6" />
-      <item itemvalue="JUnit.DeviceTest" />
-      <item itemvalue="JUnit.DeviceTest.checkIdGeneration" />
-      <item itemvalue="JUnit.DeviceTest.testRegistration" />
-      <item itemvalue="JUnit.IntelligentHomeCenterTest.testGetDeviceByIdBlank" />
-      <item itemvalue="JUnit.StorageTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DeviceTest" />
-        <item itemvalue="JUnit.DeviceTest.checkIdGeneration" />
-        <item itemvalue="JUnit.StorageTest" />
-        <item itemvalue="JUnit.IntelligentHomeCenterTest.testGetDeviceByIdBlank" />
-        <item itemvalue="JUnit.DeviceTest.testRegistration" />
+        <item itemvalue="Application.WritingToAndReadingFromFile" />
+        <item itemvalue="Application.ObjectStreamExample" />
+        <item itemvalue="Application.ExecutionTimeComparator" />
+        <item itemvalue="Application.DiskSizeEstimator" />
+        <item itemvalue="Application.DataStreamExample" />
       </list>
     </recent_temporary>
   </component>
@@ -310,8 +236,17 @@
       <workItem from="1700850476548" duration="4304000" />
       <workItem from="1700907898665" duration="19694000" />
       <workItem from="1701013625114" duration="62000" />
-      <workItem from="1701281400985" duration="2644000" />
+      <workItem from="1701281400985" duration="6048000" />
     </task>
+    <task id="LOCAL-00001" summary="JMT-2:&#10;Add: Week 6">
+      <option name="closed" value="true" />
+      <created>1701455363462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701455363462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +254,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JMT-1:&#10;Add: Initial setup and lab1-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="JMT-1:&#10;Add: Initial setup and lab1-3" />
+    <MESSAGE value="JMT-2:&#10;Add: Week 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="JMT-2:&#10;Add: Week 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
