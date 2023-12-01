@@ -7,10 +7,17 @@
       <sourceFolder url="file://$MODULE_DIR$/labs/lab1/task2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/labs/lab2/task1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/snippets/w2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/snippets/w3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/labs/lab3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w6/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab6/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="junit.jupiter.engine" level="project" />
+    <orderEntry type="library" name="mockito.junit.jupiter" level="project" />
   </component>
 </module>
