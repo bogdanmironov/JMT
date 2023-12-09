@@ -50,7 +50,7 @@ public class FootballPlayerAnalyzer {
      * @return the set of all nationalities
      */
     public Set<String> getAllNationalities() {
-        return players.stream().map(Player::nationality).collect(Collectors.toSet());
+        return players.stream().map(Player::nationality).collect(Collectors.toUnmodifiableSet());
     }
 
     /**
