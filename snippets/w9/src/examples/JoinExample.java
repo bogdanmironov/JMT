@@ -5,7 +5,7 @@ public class JoinExample {
         TimerBomb bomb = new TimerBomb();
         bomb.start();
 
-        // Main thread will wait until bomb thread finishes
+        // bg.sofia.uni.fmi.mjt.space.Main thread will wait until bomb thread finishes
         try {
             bomb.join();
         } catch (InterruptedException e) {

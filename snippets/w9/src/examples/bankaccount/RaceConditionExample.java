@@ -14,7 +14,7 @@ public class RaceConditionExample {
             depositors[i].start();
         }
 
-        // Main thread will wait until all depositors are done.
+        // bg.sofia.uni.fmi.mjt.space.Main thread will wait until all depositors are done.
         for (int i = 0; i < depositors.length; i++) {
             depositors[i].join();
         }

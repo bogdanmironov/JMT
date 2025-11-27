@@ -8,7 +8,7 @@ public class DaemonThreads {
         BackgroundTask backgroundTask = new BackgroundTask();
         backgroundTask.start();
 
-        System.out.println("Main thread terminates");
+        System.out.println("bg.sofia.uni.fmi.mjt.space.Main thread terminates");
     }
 }
 

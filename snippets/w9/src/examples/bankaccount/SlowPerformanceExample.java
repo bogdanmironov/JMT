@@ -17,7 +17,7 @@ public class SlowPerformanceExample {
             depositors[i].start();
         }
 
-        // Main thread will wait depositor threads to terminate
+        // bg.sofia.uni.fmi.mjt.space.Main thread will wait depositor threads to terminate
         for (int i = 0; i < depositors.length; i++) {
             depositors[i].join();
         }

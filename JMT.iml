@@ -23,10 +23,34 @@
       <sourceFolder url="file://$MODULE_DIR$/labs/lab9/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/labs/lab9/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/labs/lab9/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/homework2/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/homework2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/homework2/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab10_client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab10_server/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab10_server/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/homework1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/labs/lab7/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/homeworks/homework1/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/project/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w11/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w11/todo-list-app/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w11/todo-list-app/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w12/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/snippets/w2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project/res" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="junit.jupiter.engine" level="project" />
     <orderEntry type="library" name="mockito.junit.jupiter" level="project" />
+    <orderEntry type="library" name="google.code.gson" level="project" />
+    <orderEntry type="library" name="google.zxing.core" level="project" />
+    <orderEntry type="library" name="google.zxing.javase" level="project" />
   </component>
 </module>
