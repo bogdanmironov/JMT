@@ -1,0 +1,548 @@
+174195,"Fish, fish sticks, frozen, prepared",null
+171606,"Fish broth",null
+2342600,"Fish chowder",null
+2341884,"Fish curry",null
+2341881,"Fish sauce",null
+2341647,"Fish, anchovy",null
+2341644,"Fish, canned",null
+2341648,"Fish, carp",null
+2341661,"Fish, croaker",null
+2341662,"Fish, eel",null
+2341675,"Fish, halibut",null
+2341676,"Fish, herring",null
+2341684,"Fish, mullet",null
+2341639,"Fish, NFS",null
+2341677,"Fish, pickled",null
+2341691,"Fish, pike",null
+2341638,"Fish, raw",null
+2341715,"Fish, shark",null
+2341645,"Fish, smoked",null
+2341698,"Fish, snapper",null
+2341646,"Fish, stick",null
+173702,"Fish, surimi",null
+2341716,"Fish, swordfish",null
+2341980,"Gefilte fish",null
+2344013,"Taco, fish",null
+2341885,"Fish curry with rice",null
+172340,"Fish oil, herring",null
+172341,"Fish oil, menhaden",null
+172343,"Fish oil, salmon",null
+173578,"Fish oil, sardine",null
+2342476,"Fish sandwich, grilled",null
+2342471,"Fish sandwich, NFS",null
+2341872,"Fish timbale or mousse",null
+2342477,"Fish wrap sandwich",null
+2341713,"Fish, bass, fried",null
+2341711,"Fish, bass, grilled",null
+2341709,"Fish, bass, NFS",null
+2341714,"Fish, bass, steamed",null
+171949,"Fish, bluefish, raw",null
+171950,"Fish, burbot, raw",null
+171951,"Fish, butterfish, raw",null
+2341979,"Fish, cake or patty",null
+171952,"Fish, carp, raw",null
+2341653,"Fish, catfish, fried",null
+2341651,"Fish, catfish, grilled",null
+2341649,"Fish, catfish, NFS",null
+2341654,"Fish, catfish, steamed",null
+171953,"Fish, cisco, raw",null
+171954,"Fish, cisco, smoked",null
+2341659,"Fish, cod, fried",null
+770884,"MILKA CHOCOLATE",07622300305024
+769696,"MILKA CHOCOLATE",07622210164018
+1459186,"MILKA BISCUITS 1X5.29 OZ",00070221008116
+770624,"MILKA CHOCOLATE TABLET MILK",04025700001092
+769966,"MILKA LUFLEE CHOCOLATE TABLET CARAMEL",07622210040671
+770786,"MILKA NAPS CHOCOLATE PIECES MILK",07622300065041
+1460420,"MILKA CHOCOLATE BAR HAZELNUTS 1X3.520 OZ",00070221103057
+1461113,"MILKA CHOCOLATE BAR OREO 1X1.44 OZ",00070221007201
+1459892,"MILKA CHOCOLATE BAR OREO 1X10.5 OZ",00070221008369
+1461136,"MILKA CHOCOLATE BAR OREO 1X2.88 OZ",00070221008390
+1461162,"MILKA CHOCOLATE BAR OREO 1X3 PK",00070221009748
+1461116,"MILKA CHOCOLATE BAR OREO 1X3.52 OZ",00070221009915
+1461185,"MILKA CHOCOLATE BAR OREO 1X3.52 OZ",00070221007188
+1458610,"MILKA CHOCOLATE BAR OREO 1X34.56 OZ",00070221009359
+1461137,"MILKA CHOCOLATE BAR OREO 1X6 PK",00070221010027
+1460935,"MILKA CHOCOLATE BAR OREO FESTIVE1X10.5 OZ",00070221009007
+1458648,"MILKA CHOCOLATE BAR WHITE 1X3.520 OZ",00070221103033
+769880,"MILKA CHOCOLATE BISCUIT TABLET MILK WITH BISCUIT",07622210289285
+769488,"MILKA CHOCOLATE TABLET MILK WITH HAZELNUTS AND TOFFEE",07622300280802
+769448,"MILKA CHOCOLATE TABLET MILK WITH WHOLE NUTS",04025700001108
+1459219,"MILKA CHOCOLATE BAR ALPINE MILK 1X3.520 OZ",00070221103026
+1461188,"MILKA CHOCOLATE BAR OREO MINT 1X1.44 OZ",00070221008918
+1461211,"MILKA CHOCOLATE BAR OREO MINT 1X2.88 OZ",00070221008895
+1461149,"MILKA CHOCOLATE BAR OREO MINT 1X34.5 OZ",00070221009762
+1461111,"MILKA CHOCOLATE BAR OREO MINT FESTIVE1X10.5 OZ",00070221008925
+1461163,"MILKA CHOCOLATE BAR-MINIS OREO 1X10.2 OZ",00070221009625
+1461227,"MILKA CHOCOLATE BAR-MINIS OREO 1X30.2 OZ",00070221009731
+1461140,"MILKA CHOCOLATE BAR-MINIS OREO EASTER1X10.2 OZ",00070221010379
+1461231,"MILKA CHOCOLATE BAR-MINIS OREO FESTIVE1X10.2 OZ",00070221009861
+1461182,"MILKA CHOCOLATE BAR-MINIS OREO HALLOWEEN1X10.2 OZ",00070221009663
+1457270,"MILKA CHOCOLATE-MIXED UNIT OREO 1X6.170 OZ",00070221008277
+771074,"MILKA CHOCOLATE OREO COOKIES AND CREME 100 GR",07622300631574
+770732,"MILKA CHOCOLATE PIECES ALPINE MILK 1.702 KG",07622300295127
+1461020,"MILKA CHOCOLATE BAR OREO COOKIES AND CREME 1X1.44 OZ",00070221009946
+1461095,"MILKA CHOCOLATE BAR OREO COOKIES AND CREME 1X2.88 OZ",00070221009960
+1461107,"MILKA CHOCOLATE BAR-MINIS OREO VALENTINES DAY1X10.2 OZ",00070221010331
+770384,"MILKA CHOCOLATE TABLET MILK WITH DAIM PIECES 100.000 GR",07622210078131
+1914379,"ALPINE MILK CHOCOLATE & LU BISCUITS, ALPINE MILK & BISCUITS",891128148183
+2502596,"ALPINE MILK CHOCOLATE CONFECTION, ALPINE MILK",070221103026
+2579067,"BROKEN NUTS MILK CHOCOLATE CONFECTION WITH HAZELNUTS, BROKEN NUTS MILK CHOCOLATE WITH HAZELNUTS",070221003234
+2088464,"CHERRY CREAM ALPINE MILK CHOCOLATE, CHERRY CREAM",891128148152
+2170590,"CHOCO & COOKIE 100% ALPINE MILK CHOCOLATE, CHOCO & COOKIE",891128145205
+2088106,"CHOCO GRAINS BISCUITS TOPPED WITH MILK CHOCOLATE CONFECTION, CHOCO GRAINS",070221007645
+2108156,"CHOCO MOO BISCUITS TOPPED WITH MILK CHOCOLATE CONFECTION, CHOCO MOO",070221007638
+2087790,"CHOCO WAFER FILLED AND COVERED WITH MILK CHOCOLATE CONFECTION, CHOCO WITH MILK CHOCOLATE CONFECTION",070221006990
+2088369,"CHOCO WAFER, CHOCO",891128141368
+2502564,"CHOCOLATE BIG CRUNCH CANDY BAR, CHOCOLATE",070221008369
+2502570,"CHOCOLATE BIG CRUNCHY CANDY BAR, CHOCOLATE",070221009007
+2502576,"CHOCOLATE CANDY BAR, CHOCOLATE",070221009861
+2502573,"CHOCOLATE CANDY BAR, CHOCOLATE",070221009625
+770884,"MILKA CHOCOLATE",07622300305024
+769696,"MILKA CHOCOLATE",07622210164018
+769696,"MILKA CHOCOLATE",07622210164018
+770884,"MILKA CHOCOLATE",07622300305024
+1943515,"CHEESE",853910006170
+2083541,"CHEESE",039674502084
+2442206,"CHEESE",850276005014
+500370,"CHEESE",217260803726
+2009474,"CHEESE",819753000683
+2095090,"CHEESE",814857020018
+2162106,"CHEESE",010096503972
+2016892,"CHEESE",073296480078
+2441105,"CHEESE",041174118405
+1917094,"CHEESE",688267173844
+2511005,"CHEESE",855922006339
+1986609,"CHEESE",070872198921
+2061880,"CHEESE",0853555003404
+1850812,"CHEESE",769087004768
+2428690,"CHEESE",011863118740
+2428038,"CHEESE",011863120569
+2009472,"CHEESE",769087002603
+1913921,"CHEESE",856274005056
+2469393,"CHEESE",852230003241
+2469939,"CHEESE",852230003326
+2089626,"CHEESE",8007559204240
+2118226,"CHEESE",075925299853
+1078173,"CHEESE",20812218
+2590600,"CHEESE",049800212152
+2008231,"CHEESE",769087000616
+2056312,"CHEESE",054783831108
+2089606,"CHEESE",817944010640
+2679762,"CHEESE",071448504214
+2653256,"CHEESE",899285000115
+2341173,"Cheese, processed cheese food",null
+2341177,"Cheese spread, Swiss cheese base",null
+2341178,"Cheese spread, cream cheese, regular",null
+169081,"Cheese spread, cream cheese base",null
+2341179,"Cheese spread, cream cheese, light",null
+2341182,"Cheese, cottage cheese, with gelatin dessert",null
+2341123,"Cheese, Monterey",null
+2341185,"Cheese ball",null
+2341143,"Cheese, paneer",null
+2341190,"Cheese dip",null
+2343633,"Crackers, cheese",null
+2341592,"Head cheese",null
+2341176,"Cheese spread, American or Cheddar cheese base",null
+2343095,"Bread, cheese",null
+2341181,"Imitation cheese",null
+2341201,"Cheese sandwich, cheddar cheese, on white bread",null
+2341112,"Cheese, Cheddar",null
+2341202,"Cheese sandwich, cheddar cheese, on wheat bread",null
+2341175,"Cheese,  with wine",null
+2341167,"Cheese, American",null
+2341109,"Cheese, Brick",null
+2345173,"Carrots, raw",null
+170500,"Carrot, dehydrated",null
+170393,"Carrots, raw",null
+2343325,"Muffin, carrot",null
+2345174,"Carrots, raw, salad",null
+2345190,"Carrots, glazed, cooked",null
+169871,"Babyfood, carrots, toddler",null
+2343339,"Cake or cupcake, carrot",null
+2345196,"Carrot juice, 100%",null
+170491,"Carrot juice, canned",null
+2258587,"Carrots, baby, raw",null
+168568,"Carrots, baby, raw",null
+2346367,"Carrots, cooked, as ingredient",null
+746764,"Carrots, frozen, unprepared",null
+2258586,"Carrots, mature, raw",null
+2345175,"Carrots, raw, salad with apples",null
+2345188,"Carrots, canned, cooked with oil",null
+2345176,"Carrots, cooked, from restaurant",null
+2345180,"Carrots, fresh, cooked with oil",null
+2345186,"Carrots, frozen, cooked with oil",null
+2345182,"Carrots, NS as to form, cooked",null
+173518,"Babyfood, carrots and beef, strained",null
+169043,"Babyfood, juice, orange-carrot",null
+173507,"Babyfood, vegetables, carrots, junior",null
+173506,"Babyfood, vegetables, carrots, strained",null
+170425,"Peas and carrots, frozen, unprepared",null
+2345189,"Carrots, canned, cooked with butter or margarine",null
+2345179,"Carrots, canned, cooked, no added fat",null
+2345181,"Carrots, fresh, cooked with butter or margarine",null
+2345177,"Carrots, fresh, cooked, no added fat",null
+2345187,"Carrots, frozen, cooked with butter or margarine",null
+2345178,"Carrots, frozen, cooked, no added fat",null
+2345666,"Baby Toddler carrots, Stage 1",null
+2345667,"Baby Toddler carrots, Stage 2",null
+169339,"Carrots, cooked, boiled, drained, with salt",null
+2345200,"Peas and carrots, cooked, NS as to form",null
+2344533,"Rice, brown, with carrots, fat added",null
+2344532,"Rice, brown, with carrots, no added fat",null
+2344531,"Rice, brown, with carrots, NS as to fat",null
+2344492,"Rice, white, with carrots, fat added",null
+2344491,"Rice, white, with carrots, no added fat",null
+2344490,"Rice, white, with carrots, NS as to fat",null
+171184,"SMART SOUP, Vietnamese Carrot Lemongrass",null
+2345193,"Carrots, canned, reduced sodium, cooked with oil",null
+2345561,"Broccoli, cauliflower and carrots, cooked, fat added",null
+2345560,"Broccoli, cauliflower and carrots, cooked, no added fat",null
+174932,"Cake, pudding-type, carrot, dry mix",null
+168518,"Carrots, canned, no salt added, drained solids",null
+169340,"Carrots, canned, no salt added, solids and liquids",null
+170396,"Carrots, canned, regular pack, drained solids",null
+1980577,"STRAWBERRY",070470158327
+2442262,"STRAWBERRY",037295001016
+2388788,"STRAWBERRY",609456366731
+2021724,"STRAWBERRY",041497129164
+2116755,"STRAWBERRY",021130461271
+2281467,"STRAWBERRY",087222102033
+1852103,"STRAWBERRY",609207617983
+2024076,"STRAWBERRY",085239024270
+2344777,"Strawberries, raw",null
+2344778,"Strawberries, canned",null
+2344779,"Strawberries, frozen",null
+2343485,"Pie, strawberry",null
+167762,"Strawberries, raw",null
+2346409,"Strawberries, raw",null
+168758,"Toppings, strawberry",null
+2343367,"Cake or cupcake, strawberry",null
+2343376,"Cake, strawberry shortcake",null
+173045,"Guavas, strawberry, raw",null
+168810,"Ice creams, strawberry",null
+172062,"McDONALD'S, Strawberry Sundae",null
+2345839,"Strawberry drink syrup",null
+2344826,"Strawberry juice, 100%",null
+2340893,"Strawberry milk, NFS",null
+2340894,"Strawberry milk, whole",null
+172036,"Fast foods, sundae, strawberry",null
+171301,"Kefir, lowfat, strawberry, LIFEWAY",null
+175228,"SILK Strawberry soy yogurt",null
+168174,"Strawberries, frozen, sweetened, sliced",null
+2340897,"Strawberry milk, fat free",null
+2340896,"Strawberry milk, low fat",null
+2340899,"Strawberry milk, non-dairy",null
+2340895,"Strawberry milk, reduced fat",null
+2340898,"Strawberry milk, reduced sugar",null
+171300,"Yogurt, Greek, strawberry, lowfat",null
+330415,"Yogurt, Greek, strawberry, nonfat",null
+170901,"Yogurt, Greek, strawberry, nonfat",null
+170998,"Babyfood, fruit, banana and strawberry, junior",null
+174111,"Beverages, Kiwi Strawberry Juice Drink",null
+175102,"Beverages, shake, fast food, strawberry",null
+167583,"Candies, TWIZZLERS Strawberry Twists Candy",null
+175230,"SILK Banana-Strawberry soy yogurt",null
+174869,"Strawberry-flavor beverage mix, powder",null
+171297,"Yogurt, Greek, strawberry, DANNON OIKOS",null
+175076,"Archway Home Style Cookies, Strawberry Filled",null
+174829,"Beverages, V8 SPLASH Smoothies, Strawberry Banana",null
+168213,"Fruit juice smoothie, ODWALLA, strawberry banana",null
+2340993,"Strawberry beverage powder, dry mix, not reconstituted",null
+171299,"Yogurt, Greek, nonfat, strawberry, DANNON OIKOS",null
+174168,"Beverages, V8 SPLASH Juice Drinks, Strawberry Banana",null
+171931,"Beverages, V8 SPLASH Juice Drinks, Strawberry Kiwi",null
+2078941,"CARROT CAKE",605388664877
+2265380,"CARROT CAKE",895797002562
+1897618,"CARROT CAKE",023204386596
+1906979,"CARROT CAKE",049800164222
+2321976,"CARROT CAKE",681131147392
+2089281,"CARROT CAKE",738004000756
+2543693,"CARROT CAKE",022332337043
+2469676,"CARROT CAKE",049800159600
+2106151,"CARROT CAKE",045255149869
+2343339,"Cake or cupcake, carrot",null
+174932,"Cake, pudding-type, carrot, dry mix",null
+2345173,"Carrots, raw",null
+2343355,"Cake, fruit cake",null
+170500,"Carrot, dehydrated",null
+170393,"Carrots, raw",null
+2343325,"Muffin, carrot",null
+2345174,"Carrots, raw, salad",null
+2345190,"Carrots, glazed, cooked",null
+169871,"Babyfood, carrots, toddler",null
+2345196,"Carrot juice, 100%",null
+170491,"Carrot juice, canned",null
+2258587,"Carrots, baby, raw",null
+168568,"Carrots, baby, raw",null
+2346367,"Carrots, cooked, as ingredient",null
+746764,"Carrots, frozen, unprepared",null
+2258586,"Carrots, mature, raw",null
+2343648,"Popcorn cake",null
+2343352,"Cake, cream",null
+2343645,"Rice cake",null
+2345175,"Carrots, raw, salad with apples",null
+2342884,"Bean cake",null
+2343362,"Cake, pound",null
+2343366,"Cake, sponge",null
+2343368,"Cake, torte",null
+2341978,"Crab, cake",null
+174943,"Cake, snack cakes, creme-filled, sponge",null
+2345188,"Carrots, canned, cooked with oil",null
+2345176,"Carrots, cooked, from restaurant",null
+2345180,"Carrots, fresh, cooked with oil",null
+2345186,"Carrots, frozen, cooked with oil",null
+2345182,"Carrots, NS as to form, cooked",null
+173518,"Babyfood, carrots and beef, strained",null
+169043,"Babyfood, juice, orange-carrot",null
+173507,"Babyfood, vegetables, carrots, junior",null
+173506,"Babyfood, vegetables, carrots, strained",null
+170425,"Peas and carrots, frozen, unprepared",null
+2342468,"Salmon cake sandwich",null
+174942,"Cake, snack cakes, creme-filled, chocolate with frosting",null
+174951,"Cookies, fudge, cake-type (includes trolley cakes)",null
+2343369,"Cake, tres leche",null
+2157166,"STEAK",852668006005
+2342183,"Pepper steak",null
+2345265,"Steak sauce",null
+2341813,"Steak tartare",null
+2341806,"Steak teriyaki",null
+2342168,"Swiss steak",null
+2341320,"Venison, steak",null
+2341799,"Salisbury steak with gravy",null
+2341257,"Beef, sandwich steak",null
+2341230,"Beef, steak, chuck",null
+2341231,"Beef, steak, cube",null
+2341232,"Beef, steak, flank",null
+2341229,"Beef, steak, NFS",null
+2341236,"Beef, steak, round",null
+2341246,"Beef, steak, tenderloin",null
+2341281,"Pork, steak, coated",null
+2341247,"Beef, steak, country fried",null
+2342949,"Swiss steak, with gravy, meatless",null
+167669,"CRACKER BARREL, steak fries",null
+167673,"DENNY'S, top sirloin steak",null
+168965,"Salisbury steak with gravy, frozen",null
+171825,"Sauce, steak, tomato based",null
+2342404,"Steak sandwich or sub on wheat",null
+2342403,"Steak sandwich or sub on white",null
+2342406,"Cheese steak sandwich or sub on wheat",null
+2342405,"Cheese steak sandwich or sub on white",null
+167670,"CRACKER BARREL, grilled sirloin steak",null
+2341279,"Pork, steak, lean and fat eaten",null
+2341280,"Pork, steak, lean only eaten",null
+2341278,"Pork, steak, NS as to fat eaten",null
+169016,"Restaurant, family style, sirloin steak",null
+170335,"TACO BELL, BURRITO SUPREME with steak",null
+170733,"TACO BELL, Soft Taco with steak",null
+2342193,"Beef steak with onions, Puerto Rican style",null
+169831,"APPLEBEE'S, 9 oz house sirloin steak",null
+2646175,"Beef, flank, steak, boneless, choice, raw",null
+2646172,"Beef, ribeye, steak, boneless, choice, raw",null
+2341234,"Beef, steak, ribeye, lean and fat eaten",null
+2341235,"Beef, steak, ribeye, lean only eaten",null
+2341233,"Beef, steak, ribeye, NS as to fat eaten",null
+2341238,"Beef, steak, sirloin, lean and fat eaten",null
+2341239,"Beef, steak, sirloin, lean only eaten",null
+2341237,"Beef, steak, sirloin, NS as to fat eaten",null
+2341241,"Beef, steak, strip, lean and fat eaten",null
+2341242,"Beef, steak, strip, lean only eaten",null
+2341240,"Beef, steak, strip, NS as to fat eaten",null
+2342543,"Salisbury steak dinner, NFS, frozen meal",null
+2342544,"Salisbury steak with gravy, potatoes, vegetable, frozen meal",null
+2342546,"Salisbury steak with gravy, macaroni and cheese, frozen meal",null
+2341244,"Beef, steak, T-bone,  lean and fat eaten",null
+2390839,"RADICAL SKADATTLE SUPER CREATINE ULTRA C0Q10 ENERGY DRINK, RADICAL SKADATTLE",610764024220
+2578027,"BLUE RAZZ ENERGY DRINK",0610764863638
+2365123,"CHAMPAGNE POTENT BRAIN AND BODY FUEL, CHAMPAGNE",610764863591
+2365122,"CHERRY BLADE LEMONADE POTENT BRAIN AND BODY FUEL, CHERRY BLADE LEMONADE",610764120472
+2365121,"CITRUS TWIST POTENT BRAIN AND BODY FUEL, CITRUS TWIST",610764863850
+2578029,"PEACH MANGO ENERGY DRINK, PEACH; MANGO",0610764863812
+2448779,"PINA COLADA POTENT BRAIN AND BODY FUEL, PINA COLADA",610764826114
+1959056,"POTENT BRAIN AND BODY FUEL, PEACH MANGO",610764863812
+1958760,"POTENT BRAIN AND BODY FUEL, PURPLE GUAVA PEAR",610764863126
+2578025,"PURPLE GUAVA PEAR ENERGY DRINK, PURPLE GUAVA; PEAR",0610764863119
+2578024,"PURPLE HAZE ENERGY DRINK",0610764826176
+2399849,"RAINBOW UNICORN ENERGY DRINK, RAINBOW UNICORN",610764251299
+2578028,"STAR BLAST ENERGY DRINK",0610764863652
+2578026,"SOUR HEADS ENERGY DRINK",0610764863430
+2666014,"BIRTHDAY CAKE BASH ENERGY DRINK, BIRTHDAY CAKE BASH",610764263155
+2666010,"CANDY APPLE CRISP ENERGY DRINK, CANDY APPLE CRISP",610764025227
+2415538,"DELISH STRAWBERRY KISS POTENT BRAIN AND BODY FUEL, DELISH STRAWBERRY KISS",610764029249
+2420456,"KEY LIME PIE ENERGY DRINK, KEY LIME PIE",610764026170
+2412793,"POTENT BRAIN AND BODY FUEL, RAGING RASPBERRY HIBISCUS",610764023308
+2666009,"RANGING RASPBERRY HIBISCUS ENERGY DRINK, RAGING RASPBERRY HIBISCUS",610764023919
+2666012,"WHOLE LOTTA CHOCOLATA ENERGY DRINK, WHOLE LOTTA CHOCOLATA",610764031396
+2419196,"WHOLE LOTTA CHOCOLATA ENERGY DRINK, WHOLE LOTTA CHOCOLATA",610764033703
+2666013,"BANGSTER BERRY ENERGY DRINK, BANGSTER BERRY",610764262271
+2415587,"BLACK CHERRY VANILLA ENERGY DRINK, BLACK CHERRY VANILLA",610764863799
+2666015,"BLUE RAZZ ENERGY DRINK, BLUE RAZZ",610764863461
+2601913,"CANDY APPLE CRISP ENERGY DRINK, APPLE",0610764552198
+2666007,"COTTON CANDY ENERGY DRINK, COTTON CANDY",610764000316
+2666008,"COTTON CANDY ENERGY DRINK, COTTON CANDY",610764000330
+2415586,"FROSE ROSE ENERGY DRINK, FROSE ROSE",610764710352
+2666016,"LEMON DROP POTENT BRAIN AND BODY FUEL, LEMON DROP",610764863577
+2601912,"MIAMI COLA ENERGY DRINK",0610764264152
+2364891,"MIAMI COLA FUEL YOUR DESTINY!",610764264152
+2256911,"PEACH MANGO ENERGY DRINK, PEACH MANGO",610764025319
+2365273,"POTENT BRAIN AND BODY FUEL",610764262837
+2666018,"POWER PUNCH POTENT BRAIN AND BODY FUEL, POWER PUNCH",610764863614
+2415591,"RADICAL SKADATTLE ENERGY DRINK, RADICAL SKADATTLE",610764025333
+2415593,"RAINBOW UNICORN ENERGY DRINK, RAINBOW UNICORN",610764710338
+2415585,"SOUR HEADS ENERGY DRINK, SOUR HEADS",610764863683
+2666011,"WYLDIN' WATERMELON ENERGY DRINK, WYLDIN' WATERMELON",610764030054
+2578022,"FROS ROS ENERGY DRINK",0610764262288
+2134312,"SUPER SOURS GREEN APPLE XDURANCE ENERGY DRINK, SUPER SOURS GREEN APPLES",818094006385
+2451405,"FRUIT PUNCH NOSTALGIC CEREBAL NECTAR, FRUIT PUNCH",850020530182
+2276672,"BLACKBERRY BLAST SWEET ICE TEA, BLACKBERRY BLAST",610764029287
+769696,"MILKA CHOCOLATE",07622210164018
+2343826,"Chinese pancake",null
+2345833,"Pancake syrup",null
+2343791,"Pancakes, chocolate",null
+2343789,"Pancakes, fruit",null
+2343777,"Pancakes, NFS",null
+2343787,"Pancakes, plain",null
+2343790,"Pancakes, pumpkin",null
+2343786,"Pancakes, school",null
+2345046,"Potato pancake",null
+170092,"Potato pancakes",null
+2345840,"Pancake syrup, light",null
+2343780,"Pancakes, chocolate, frozen",null
+2343779,"Pancakes, fruit, frozen",null
+2343794,"Pancakes, gluten free",null
+2343778,"Pancakes, plain, frozen",null
+2343792,"Pancakes, whole grain",null
+2342807,"Egg sandwich on griddle/pancake",null
+2344631,"Pancakes and sausage, frozen meal",null
+2343788,"Pancakes, plain, reduced fat",null
+174086,"Pancakes, plain, reduced fat",null
+2343781,"Pancakes, whole grain, frozen",null
+2342817,"Sausage griddle/pancake sandwich",null
+169578,"Syrups, table blends, pancake",null
+2342808,"Egg sandwich on griddle/pancake, with meat",null
+172773,"Pancakes, blueberry, prepared from recipe",null
+172774,"Pancakes, buckwheat, dry mix, incomplete",null
+175047,"Pancakes, buttermilk, prepared from recipe",null
+2343784,"Pancakes, chocolate, fast food / restaurant",null
+2343783,"Pancakes, fruit, fast food / restaurant",null
+2343782,"Pancakes, plain, fast food / restaurant",null
+175009,"Pancakes, plain, prepared from recipe",null
+172775,"Pancakes, special dietary, dry mix",null
+2343793,"Pancakes, whole grain, reduced fat",null
+167584,"Syrups, table blends, pancake, with butter",null
+2342203,"Moo Shu pork, without Chinese pancake",null
+174106,"Pancakes, gluten-free, frozen, ready-to-heat",null
+175006,"Pancakes, plain, dry mix, complete, prepared",null
+175008,"Pancakes, plain, dry mix, incomplete, prepared",null
+2343785,"Pancakes, whole grain, fast food / restaurant",null
+171853,"Pancakes, whole wheat, dry mix, incomplete",null
+172776,"Pancakes, whole-wheat, dry mix, incomplete",null
+169577,"Syrups, table blends, pancake, reduced-calorie",null
+168838,"Syrups, table blends, pancake, with 2% maple",null
+167601,"Van's, Gluten Free, Totally Original Pancakes",null
+172771,"Pancakes plain, frozen, ready-to-heat (includes buttermilk)",null
+172772,"Pancakes, plain, dry mix, complete (includes buttermilk)",null
+175007,"Pancakes, plain, dry mix, incomplete (includes buttermilk)",null
+175010,"Pancakes, whole-wheat, dry mix, incomplete, prepared",null
+167926,"Pancakes, plain, frozen, ready-to-heat, microwave (includes buttermilk)",null
+170646,"Syrups, table blends, pancake, with 2% maple, with added potassium",null
+2345341,"Cucumber salad made with cucumber and vinegar",null
+2345304,"Cucumber, raw",null
+2345451,"Cucumber, cooked",null
+2345338,"Cucumber and vegetable namasu",null
+2345809,"Cucumber, for use on a sandwich",null
+169225,"Cucumber, peeled, raw",null
+168409,"Cucumber, with peel, raw",null
+2346406,"Cucumber, with peel, raw",null
+169379,"Pickles, cucumber, sour",null
+2345271,"Tomato and cucumber salad made with tomato, cucumber, oil, and vinegar",null
+2345340,"Cucumber salad, made with Italian dressing",null
+324653,"Pickles, cucumber, dill or kosher dill",null
+168558,"Pickles, cucumber, dill or kosher dill",null
+168563,"Pickles, cucumber, dill, reduced sodium",null
+168562,"Pickles, cucumber, sour, low sodium",null
+167618,"Sea cucumber, yane (Alaska Native)",null
+2345339,"Cucumber salad, made with sour cream dressing",null
+169378,"Pickles, cucumber, sweet (includes bread and butter pickles)",null
+169380,"Pickles, cucumber, sweet, low sodium (includes bread and butter pickles)",null
+2453490,"CUCUMBER HUMMUS, CUCUMBER",020601412378
+2212425,"CUCUMBER LEMONADE, CUCUMBER",022198008392
+1995041,"CUCUMBER LIMEADE, CUCUMBER",079581185055
+2015931,"CUCUMBER SALAD, CUCUMBER",673538579838
+2392097,"CUCUMBER SODA, CUCUMBER",852201007094
+2445971,"CUCUMBER SODA, CUCUMBER",852201007346
+2390486,"CUCUMBERS IN BRINE, CUCUMBERS",660645002205
+2083884,"SODA, CUCUMBER, CUCUMBER",851818001655
+1888410,"(PICKLED CUCUMBER) PICKLED CUCUMBER, (PICKLED CUCUMBER)",087902535106
+2626297,"CUCUMBERS",095829420030
+2609624,"CUCUMBERS",888670053348
+2631387,"CUCUMBER BENEDICTINE SPREAD, CUCUMBER",861007000239
+2195105,"CUCUMBER INFUSED VINEGAR, CUCUMBER",011110078087
+2396322,"CUCUMBER INFUSED WATER, CUCUMBER",099999409017
+2164878,"CUCUMBER INFUSED WATER, CUCUMBER",07789050950
+2631053,"CUCUMBER REGULAR ROLL, CUCUMBER",812824013247
+686848,"CUCUMBER SPARKLING WATER, CUCUMBER",853337007095
+1735779,"CUCUMBER TONIC WATER, CUCUMBER",812136030185
+1042361,"CUCUMBER TONIC WATER, CUCUMBER",012136030185
+2172138,"CUCUMBER TONIC WATER, CUCUMBER",812136030178
+2283757,"CUCUMBER & MINT LEMONADE, CUCUMBER & MINT",838724000484
+2396107,"CUCUMBER CAFFEINATED SPARKLING WATER, CUCUMBER",853337007231
+1132882,"CUCUMBER COLLAGEN INFUSED WATER, CUCUMBER",628055222231
+2553869,"CUCUMBER DILL DRESSING, CUCUMBER DILL",711381342558
+2607176,"CUCUMBER DILL MAYO, CUCUMBER; DILL",0854488006388
+2674450,"CUCUMBER GARLIC DILL TZATZIKI, CUCUMBER",0044115248407
+2642076,"CUCUMBER GARLIC TZATZIKI, CUCUMBER GARLIC",044115343409
+2623487,"CUCUMBER KOREAN KIM CHEE, CUCUMBER",073366212011
+2593748,"CUCUMBER MELON KOMBUCHA, CUCUMBER MELON",860001806434
+2619768,"CUCUMBER MELON SELTZER, CUCUMBER MELON",041190067657
+2607405,"CUCUMBER MINT MIXERS, CUCUMBER; MINT",0858344005065
+174195,"Fish, fish sticks, frozen, prepared",null
+171606,"Fish broth",null
+2342600,"Fish chowder",null
+2341884,"Fish curry",null
+2341881,"Fish sauce",null
+2341647,"Fish, anchovy",null
+2341644,"Fish, canned",null
+2341648,"Fish, carp",null
+2341661,"Fish, croaker",null
+2341662,"Fish, eel",null
+2341675,"Fish, halibut",null
+2341676,"Fish, herring",null
+2341684,"Fish, mullet",null
+2341639,"Fish, NFS",null
+2341677,"Fish, pickled",null
+2341691,"Fish, pike",null
+2341638,"Fish, raw",null
+2341715,"Fish, shark",null
+2341645,"Fish, smoked",null
+2341698,"Fish, snapper",null
+2341646,"Fish, stick",null
+173702,"Fish, surimi",null
+2341716,"Fish, swordfish",null
+2341980,"Gefilte fish",null
+2344013,"Taco, fish",null
+2341885,"Fish curry with rice",null
+172340,"Fish oil, herring",null
+172341,"Fish oil, menhaden",null
+172343,"Fish oil, salmon",null
+173578,"Fish oil, sardine",null
+2342476,"Fish sandwich, grilled",null
+2342471,"Fish sandwich, NFS",null
+2341872,"Fish timbale or mousse",null
+2342477,"Fish wrap sandwich",null
+2341713,"Fish, bass, fried",null
+2341711,"Fish, bass, grilled",null
+2341709,"Fish, bass, NFS",null
+2341714,"Fish, bass, steamed",null
+171949,"Fish, bluefish, raw",null
+171950,"Fish, burbot, raw",null
+171951,"Fish, butterfish, raw",null
+2341979,"Fish, cake or patty",null
+171952,"Fish, carp, raw",null
+2341653,"Fish, catfish, fried",null
+2341651,"Fish, catfish, grilled",null
+2341649,"Fish, catfish, NFS",null
+2341654,"Fish, catfish, steamed",null
+171953,"Fish, cisco, raw",null
+171954,"Fish, cisco, smoked",null
+2341659,"Fish, cod, fried",null

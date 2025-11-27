@@ -1,0 +1,17 @@
+"Fish, fish sticks, frozen, prepared","",277.0,11.01,16.23,21.66,1.5,174195
+"MILKA CHOCOLATE","",1.1,6.4,29.5,1.1,1.8,770884
+"MILKA CHOCOLATE","",1.1,6.4,29.5,1.1,1.8,770884
+"MILKA BISCUITS 1X5.29 OZ","",533.0,6.67,30.0,60.0,3.3,1459186
+"MILKA CHOCOLATE BAR HAZELNUTS 1X3.520 OZ","",548.0,7.14,33.33,57.14,2.4,1460420
+"Carrots, raw","Carrots, raw",41.0,0.93,0.24,9.58,2.8,2345173
+"CHEESE","",331.0,21.13,24.65,2.46,0.0,1943515
+"Cheese sandwich, cheddar cheese, on white bread","Bread, white, commercially prepared,Cheese, cheddar",325.0,15.1,16.1,30.0,1.4,2341201
+"CARROT CAKE","",424.0,2.35,25.88,47.06,1.2,2078941
+"CARROT CAKE","",372.0,2.33,16.28,58.14,1.2,2265380
+"Fish sandwich, grilled","Fish, haddock, grilled,Rolls, hamburger or hotdog, plain",180.0,16.1,3.29,21.2,0.8,2342476
+"RADICAL SKADATTLE SUPER CREATINE ULTRA C0Q10 ENERGY DRINK, RADICAL SKADATTLE","",0.0,0.0,0.0,0.0,0.0,2390839
+"Fish oil, herring","",902.0,0.0,100.0,0.0,0.0,172340
+"MILKA CHOCOLATE","",-1.0,7.5,33.5,-1.0,1.9,769696
+"Chinese pancake","Rice, white, long-grain, regular, raw, enriched,Beverages, water, tap, drinking",207.0,4.05,0.38,45.4,0.7,2343826
+"Pancake syrup","Syrups, table blends, pancake, with 2% maple",265.0,0.0,0.1,69.6,0.0,2345833
+"Sauce, steak, tomato based","",95.0,1.25,0.23,22.04,1.5,171825

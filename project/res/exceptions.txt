@@ -1,0 +1,141 @@
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.StorageException: Test exception.
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByName(CommandExecutor.java:65)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:51)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.StorageException: Test exception.
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByName(CommandExecutor.java:65)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:51)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.StorageException: Test exception.
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByName(CommandExecutor.java:65)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:51)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.BarcodeImageException: Could not load barcode image.
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.barcodescanner.BarcodeScanner.scanImage(BarcodeScanner.java:29)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getUpcCodeFromImg(CommandExecutor.java:177)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByBarcode(CommandExecutor.java:155)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:61)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Caused by: java.io.FileNotFoundException: /Users/bmironov/Downloads/barcode.gif (Operation not permitted)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.barcodescanner.BarcodeScanner.scanImage(BarcodeScanner.java:21)
+	... 7 more
+
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.FoodNotFoundException: Food not found
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.storage.FoodFileStorage.lambda$searchFoodReportByGtinUpc$3(FoodFileStorage.java:99)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.storage.FoodFileStorage.searchFoodReportByGtinUpc(FoodFileStorage.java:99)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByBarcode(CommandExecutor.java:166)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:61)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.FoodNotFoundException: Food not found
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.storage.FoodFileStorage.lambda$searchFoodReportByGtinUpc$3(FoodFileStorage.java:99)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.storage.FoodFileStorage.searchFoodReportByGtinUpc(FoodFileStorage.java:99)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByBarcode(CommandExecutor.java:166)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:61)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+java.lang.NumberFormatException: For input string: "a"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:588)
+	at java.base/java.lang.Integer.parseInt(Integer.java:685)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodReport(CommandExecutor.java:104)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:62)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.FoodNotFoundException: Food not found
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.storage.FoodFileStorage.lambda$searchFoodReportByGtinUpc$3(FoodFileStorage.java:99)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.storage.FoodFileStorage.searchFoodReportByGtinUpc(FoodFileStorage.java:99)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByBarcode(CommandExecutor.java:132)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:63)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.FoodNotFoundException: Food not found
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.storage.FoodFileStorage.lambda$searchFoodReportByGtinUpc$3(FoodFileStorage.java:99)
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.storage.FoodFileStorage.searchFoodReportByGtinUpc(FoodFileStorage.java:99)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByBarcode(CommandExecutor.java:132)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:63)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.BarcodeImageException: Could not load barcode image.
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.barcodescanner.BarcodeScanner.scanImage(BarcodeScanner.java:29)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getCodeFromArgs(CommandExecutor.java:169)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByBarcode(CommandExecutor.java:130)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:63)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Caused by: java.io.FileNotFoundException: /Users/bmironov/Documents/University/Java/JMT/project/res/barcode3.gif (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.barcodescanner.BarcodeScanner.scanImage(BarcodeScanner.java:21)
+	... 7 more
+
+java.lang.NumberFormatException: For input string: "asd"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:588)
+	at java.base/java.lang.Integer.parseInt(Integer.java:685)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodReport(CommandExecutor.java:104)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:62)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+bg.sofia.uni.fmi.mjt.foodanaliyzer.exception.BarcodeImageException: Could not load barcode image.
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.barcodescanner.BarcodeScanner.scanImage(BarcodeScanner.java:29)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getCodeFromArgs(CommandExecutor.java:169)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.getFoodByBarcode(CommandExecutor.java:130)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.command.CommandExecutor.execute(CommandExecutor.java:63)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.serverCommunication(FoodAnalyzerServer.java:126)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.start(FoodAnalyzerServer.java:88)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.server.FoodAnalyzerServer.lambda$startThread$0(FoodAnalyzerServer.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Caused by: java.io.FileNotFoundException: /Users/bmironov/Documents/University/Java/JMT/project/res/barcode3.gif (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at bg.sofia.uni.fmi.mjt.foodanaliyzer.barcodescanner.BarcodeScanner.scanImage(BarcodeScanner.java:21)
+	... 7 more
+
